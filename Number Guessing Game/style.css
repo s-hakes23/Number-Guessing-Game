@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(background.png);
+}
+.box{
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 450px;
+    padding: 100px;
+    margin-top: 40px;
+}
+.little{
+    display: flex;
+}
